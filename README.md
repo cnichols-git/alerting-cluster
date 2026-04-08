@@ -1,4 +1,4 @@
-## For this project us must have a Kubernetes cluster.  
+## For this project you must have a Kubernetes cluster.  
 
 Please note towards the end of the project you have deployed serveral services that can only be accessed via localhost's IP. We will be changing the services to have thier ports forward to the cluster IP for access. 
 
